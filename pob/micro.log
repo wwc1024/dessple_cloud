@@ -1,0 +1,20 @@
+{"level":"error","ts":"2023-03-04T15:43:16.425+0800","caller":"pob/main.go:58","msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":"2023-03-04T15:43:16.518+0800","caller":"pob/main.go:101","msg":"CreateFile C:\\Users\\wwc\\.home\\config: The system cannot find the path specified."}
+{"level":"error","ts":"2023-03-04T20:37:33.792+0800","caller":"pob/main.go:58","msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":"2023-03-04T20:37:33.897+0800","caller":"pob/main.go:101","msg":"CreateFile C:\\Users\\wwc\\.home\\config: The system cannot find the path specified."}
+{"level":"error","ts":"2023-03-04T20:40:21.088+0800","caller":"pob/main.go:58","msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":"2023-03-04T20:40:21.190+0800","caller":"pob/main.go:101","msg":"CreateFile C:\\Users\\wwc\\.home\\config: The system cannot find the path specified."}
+{"level":"error","ts":"2023-03-04T20:42:19.375+0800","caller":"pob/main.go:58","msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":"2023-03-04T20:42:19.479+0800","caller":"pob/main.go:101","msg":"CreateFile C:\\Users\\wwc\\.home\\config: The system cannot find the path specified."}
+{"level":"error","ts":"2023-03-04T20:45:11.060+0800","caller":"pob/main.go:59","msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":"2023-03-04T20:45:11.166+0800","caller":"pob/main.go:102","msg":"CreateFile C:\\Users\\wwc\\.home\\config: The system cannot find the path specified."}
+{"level":"error","ts":"2023-03-04T20:45:23.320+0800","caller":"pob/main.go:59","msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":"2023-03-04T20:45:23.416+0800","caller":"pob/main.go:102","msg":"CreateFile C:\\Users\\wwc\\.home\\config: The system cannot find the path specified."}
+{"level":"error","ts":"2023-03-04T20:45:44.859+0800","caller":"pob/main.go:59","msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":"2023-03-04T20:45:44.975+0800","caller":"pob/main.go:102","msg":"CreateFile C:\\Users\\wwc\\.home\\config: The system cannot find the path specified."}
+{"level":"error","ts":"2023-03-04T20:46:46.508+0800","caller":"pob/main.go:59","msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":"2023-03-04T20:46:46.603+0800","caller":"pob/main.go:102","msg":"CreateFile C:\\Users\\wwc\\.home\\config: The system cannot find the path specified."}
+{"level":"error","ts":"2023-03-04T20:52:24.802+0800","caller":"pob/main.go:103","msg":"CreateFile C:\\Users\\wwc\\.home\\config: The system cannot find the path specified."}
+{"level":"fatal","ts":"2023-03-04T20:52:53.948+0800","caller":"pob/main.go:134","msg":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1"}
+{"level":"fatal","ts":"2023-03-04T20:56:13.751+0800","caller":"pob/main.go:134","msg":"Error 1050: Table 'pod' already exists"}
+{"level":"error","ts":"2023-03-04T14:42:00.285Z","caller":"pob/main.go:61","msg":"dial tcp 127.0.0.1:3306: connect: connection refused"}

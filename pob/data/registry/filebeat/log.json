@@ -1,0 +1,4 @@
+{"op":"set","id":1}
+{"k":"filebeat::logs::native::1966080-69835-3569584723","v":{"id":"native::1966080-69835-3569584723","source":"E:\\code\\云原生\\git.imooc.com\\dessple\\pob\\micro.log","type":"log","FileStateOS":{"idxhi":1966080,"idxlo":69835,"vol":3569584723},"prev_id":"","offset":0,"timestamp":[2062115361780,1677934236],"ttl":-1,"identifier_name":"native"}}
+{"op":"set","id":2}
+{"k":"filebeat::logs::native::1966080-69835-3569584723","v":{"type":"log","id":"native::1966080-69835-3569584723","source":"E:\\code\\云原生\\git.imooc.com\\dessple\\pob\\micro.log","offset":0,"timestamp":[2062115361780,1677934236],"ttl":-1,"prev_id":"","FileStateOS":{"vol":3569584723,"idxhi":1966080,"idxlo":69835},"identifier_name":"native"}}
